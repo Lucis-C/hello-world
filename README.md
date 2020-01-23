@@ -1,2 +1,2 @@
 # hello-world
-My journey started.
+I want to learn C++ and Python.
